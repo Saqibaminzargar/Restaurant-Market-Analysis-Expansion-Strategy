@@ -90,14 +90,4 @@ This analysis turns raw restaurant data into a clear go-to-market roadmap — he
 
 ---
 
-# from inside your local repo folder
-mkdir screenshots
-# copy/move your screenshot images into that screenshots folder
-cp /path/to/market_overview.png screenshots/
-cp /path/to/city_wise_analysis.png screenshots/
-
-git add screenshots/
-git commit -m "Add dashboard screenshots"
-git push
-
 🔗 [LinkedIn](https://linkedin.com/in/saqib-amin-31b1ba2a1/?skipRedirect=true) 
