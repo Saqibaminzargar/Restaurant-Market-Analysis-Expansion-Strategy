@@ -84,9 +84,24 @@ A restaurant brand planning expansion wants to know:
 
 ---
 
-## Screenshot
+## Screenshots
 
 ![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/Overview.png)
+
+![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/City%20wise%20rating.png)
+
+![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-ExpansionStrategy/blob/main/Cusine%20Demand%20%26%20Rating%20Analysis.png)
+
+![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/City%20wise%20rating.png)
+
+![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/City%20Scoring%20Matrix.png)
+
+![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/Recomendation.png)
+
+
+
+
+
 
 ---
 
