@@ -84,6 +84,12 @@ A restaurant brand planning expansion wants to know:
 
 ---
 
+## Screenshot
+
+![Credit Card Spend Behaviour Dashboard](https://github.com/Saqibaminzargar/-Credit-Card-Spend-Behaviour-Analysis/blob/main/Credit%20Card%20Spend%20Behaviour%20Dashboard.png)
+
+---
+
 ## Business Impact
 
 This analysis turns raw restaurant data into a clear go-to-market roadmap — helping decision-makers prioritize cities, cuisines, and pricing strategy to maximize the odds of a successful expansion while minimizing competitive risk.
