@@ -84,18 +84,6 @@ A restaurant brand planning expansion wants to know:
 
 ---
 
-## Screenshots
-
-### Market Overview
-![Market Overview](screenshots/market_overview.png)
-
-### City-Wise Restaurant Count & Rating
-![City-Wise Analysis](screenshots/city_wise_analysis.png)
-
-> 📁 Save your slide/report images inside a `screenshots/` folder in the repo, using the file names above (or update the paths to match your actual file names).
-
----
-
 ## Business Impact
 
 This analysis turns raw restaurant data into a clear go-to-market roadmap — helping decision-makers prioritize cities, cuisines, and pricing strategy to maximize the odds of a successful expansion while minimizing competitive risk.
