@@ -86,7 +86,7 @@ A restaurant brand planning expansion wants to know:
 
 ## Screenshot
 
-![Credit Card Spend Behaviour Dashboard](https://github.com/Saqibaminzargar/-Credit-Card-Spend-Behaviour-Analysis/blob/main/Credit%20Card%20Spend%20Behaviour%20Dashboard.png)
+![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/Overview.png)
 
 ---
 
