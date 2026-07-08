@@ -90,7 +90,7 @@ A restaurant brand planning expansion wants to know:
 
 ![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/City%20wise%20rating.png)
 
-![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-ExpansionStrategy/blob/main/Cusine%20Demand%20%26%20Rating%20Analysis.png)
+![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/Price%20distribution.png)
 
 ![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/City%20wise%20rating.png)
 
@@ -98,17 +98,10 @@ A restaurant brand planning expansion wants to know:
 
 ![Overview](https://github.com/Saqibaminzargar/Restaurant-Market-Analysis-Expansion-Strategy/blob/main/Recomendation.png)
 
-
-
-
-
-
 ---
 
 ## Business Impact
 
-This analysis turns raw restaurant data into a clear go-to-market roadmap — helping decision-makers prioritize cities, cuisines, and pricing strategy to maximize the odds of a successful expansion while minimizing competitive risk.
-
----
+This analysis turns raw restaurant data into a clear go-to-market roadmap  helping decision-makers prioritize cities, cuisines, and pricing strategy to maximize the odds of a successful expansion while minimizing competitive risk.
 
 🔗 [LinkedIn](https://linkedin.com/in/saqib-amin-31b1ba2a1/?skipRedirect=true) 
